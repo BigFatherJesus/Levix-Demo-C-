@@ -1,0 +1,8 @@
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\bin\Release\net6.0-windows\win-x64\publish\LevixDemoApp.GUI.pdb
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\bin\Release\net6.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\bin\Release\net6.0-windows\win-x64\publish\PenImc_cor3.dll
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\bin\Release\net6.0-windows\win-x64\publish\PresentationNative_cor3.dll
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\bin\Release\net6.0-windows\win-x64\publish\vcruntime140_cor3.dll
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\bin\Release\net6.0-windows\win-x64\publish\wpfgfx_cor3.dll
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\bin\Release\net6.0-windows\win-x64\publish\sni.dll
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\bin\Release\net6.0-windows\win-x64\publish\LevixDemoApp.GUI.exe
