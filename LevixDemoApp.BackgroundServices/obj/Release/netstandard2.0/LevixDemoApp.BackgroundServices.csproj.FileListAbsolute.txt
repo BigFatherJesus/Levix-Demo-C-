@@ -1,0 +1,10 @@
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\bin\Release\netstandard2.0\LevixDemoApp.BackgroundServices.deps.json
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\bin\Release\netstandard2.0\LevixDemoApp.BackgroundServices.dll
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\bin\Release\netstandard2.0\LevixDemoApp.BackgroundServices.pdb
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\obj\Release\netstandard2.0\LevixDemoApp.BackgroundServices.csproj.AssemblyReference.cache
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\obj\Release\netstandard2.0\LevixDemoApp.BackgroundServices.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\obj\Release\netstandard2.0\LevixDemoApp.BackgroundServices.AssemblyInfoInputs.cache
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\obj\Release\netstandard2.0\LevixDemoApp.BackgroundServices.AssemblyInfo.cs
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\obj\Release\netstandard2.0\LevixDemoApp.BackgroundServices.csproj.CoreCompileInputs.cache
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\obj\Release\netstandard2.0\LevixDemoApp.BackgroundServices.dll
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\obj\Release\netstandard2.0\LevixDemoApp.BackgroundServices.pdb

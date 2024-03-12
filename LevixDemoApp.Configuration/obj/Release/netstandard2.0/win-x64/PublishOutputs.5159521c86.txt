@@ -1,0 +1,9 @@
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.Configuration\bin\Release\netstandard2.0\win-x64\publish\LevixDemoApp.Configuration.dll
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.Configuration\bin\Release\netstandard2.0\win-x64\publish\LevixDemoApp.Configuration.deps.json
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.Configuration\bin\Release\netstandard2.0\win-x64\publish\LevixDemoApp.Configuration.pdb
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.Configuration\bin\Release\netstandard2.0\win-x64\publish\System.Buffers.dll
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.Configuration\bin\Release\netstandard2.0\win-x64\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.Configuration\bin\Release\netstandard2.0\win-x64\publish\System.Memory.dll
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.Configuration\bin\Release\netstandard2.0\win-x64\publish\System.Numerics.Vectors.dll
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.Configuration\bin\Release\netstandard2.0\win-x64\publish\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.Configuration\bin\Release\netstandard2.0\win-x64\publish\System.Security.Cryptography.ProtectedData.dll

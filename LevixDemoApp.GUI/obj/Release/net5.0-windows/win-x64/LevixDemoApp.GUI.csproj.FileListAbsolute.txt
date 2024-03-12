@@ -1,0 +1,5 @@
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\obj\Release\net5.0-windows\win-x64\LevixDemoApp.GUI.csproj.AssemblyReference.cache
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\obj\Release\net5.0-windows\win-x64\LevixDemoApp.GUI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\obj\Release\net5.0-windows\win-x64\LevixDemoApp.GUI.AssemblyInfoInputs.cache
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\obj\Release\net5.0-windows\win-x64\LevixDemoApp.GUI.AssemblyInfo.cs
+c:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.GUI\obj\Release\net5.0-windows\win-x64\LevixDemoApp.GUI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IktJP2gLFYt5j8Ci5pzy4xycsho3lDOC/m3ebWHrUYCL0mVQ574vsQx1BufENn1OLDj2VHS8qNT4XcWL051+Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nuall\\GPT-Pilot\\gpt-pilot\\workspace\\Levix_Demo_App_v4\\LevixDemoApp.BackgroundServices\\LevixDemoApp.BackgroundServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nuall\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nuall\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

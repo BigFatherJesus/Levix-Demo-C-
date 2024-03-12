@@ -1,0 +1,3 @@
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\bin\Release\netstandard2.0\win-x64\publish\LevixDemoApp.BackgroundServices.dll
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\bin\Release\netstandard2.0\win-x64\publish\LevixDemoApp.BackgroundServices.deps.json
+C:\Users\nuall\GPT-Pilot\gpt-pilot\workspace\Levix_Demo_App_v4\LevixDemoApp.BackgroundServices\bin\Release\netstandard2.0\win-x64\publish\LevixDemoApp.BackgroundServices.pdb
