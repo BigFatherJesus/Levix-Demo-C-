@@ -12,7 +12,7 @@
 
 ### Functionality:
 
-- [v] Check if the app is started with Administrator Privileges.
+- [x] Check if the app is started with Administrator Privileges.
 - [ ] Disable OneDrive.
 - [ ] Adjust power plan settings to prevent sleep mode and configure automatic shutdown times.
 - [ ] Automatically mute system volume.
@@ -20,9 +20,9 @@
 
 ### Configuration Screen:
 
-- [ ] Implement a configuration screen to appear on the first run of the software.
-- [ ] Provide options for different base settings for different locations (Den Bosch, Veghel, Uden, Oss, Geffen).
-- [ ] Allow users to select between gaming and non-gaming laptops.
+- [x] Implement a configuration screen to appear on the first run of the software.
+- [x] Provide options for different base settings for different locations (Den Bosch, Veghel, Uden, Oss, Geffen).
+- [x] Allow users to select between gaming and non-gaming laptops.
 - [ ] Include options to configure default links for gaming and non-gaming laptops, with special handling for YouTube URLs and playlists.
 - [ ] Provide the option to select video files or folders containing video files to be played automatically in full screen.
 
