@@ -12,7 +12,7 @@
 
 ### Functionality:
 
-- [ ] Check if the app is started with Administrator Privileges.
+- [v] Check if the app is started with Administrator Privileges.
 - [ ] Disable OneDrive.
 - [ ] Adjust power plan settings to prevent sleep mode and configure automatic shutdown times.
 - [ ] Automatically mute system volume.
